@@ -4,7 +4,7 @@ clear; close all;
 %% Structure definition
 exercise = 3;
 onlyBars = true;
-
+print("hola")
 
 switch exercise
     
